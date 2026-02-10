@@ -1,1 +1,12 @@
+// Single Word Variable
+int salary = 100000; // Good Programming Practice
+int s = 100000; // Bad Programming Practice
+
+// Total Word Variable
+int annualSalary = 1000000; // Good Programming Practice
+int as = 1000000; // Bad Programming Practice
+
+// Illegal Variable Naming
+int flatNumber = 1; // Good Programming Practice
+int flat# = 1; // Bad Programming Practice
 
